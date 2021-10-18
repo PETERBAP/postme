@@ -1,0 +1,19 @@
+{
+  "name": "postme",
+  "version": "1.0.0",
+  "description": "Es una web progresiva para hacer publicaciones",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c -1 ."
+  },
+  "keywords": [
+    "pwa",
+    "postme",
+    "utcv"
+  ],
+  "author": "pedro991117.bape@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
